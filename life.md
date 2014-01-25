@@ -5,7 +5,7 @@
 - 1992 Kindergarten
 - 1993-1998 Primary Education - Sapugaskanda Primary School
 - 17/03/1996 [Sri Lanka won the Cricket World Cup](http://www.youtube.com/watch?v=zgkZMxxRpxQ)
-- ~1998 Got the first computer (Intel Celeron, 32MB RAM, Windows 98)
+- ~1998 Got the first computer (Intel Celeron, 266MHz, 32MB RAM, Windows 95)
 - 1998-2006 Secondary Education - [Royal College](http://en.wikipedia.org/wiki/Royal_College_Colombo)
 - 2003 Second PC
 - 2007 First Laptop (Dell Vostro 1510)
@@ -25,3 +25,5 @@
 - 01/06/2013-04/06/2013 Visited Singapore
 - 26/06/2013 Got published in [Springer LNCS 7652](http://link.springer.com/chapter/10.1007/978-3-642-38333-5_13)
 - 09/2013-~ Moved to [Vancouver](http://en.wikipedia.org/wiki/Vancouver "Vancouver")
+- 2014-~ Research & Teaching Assistant at [UBC](http://www.ubc.ca/)
+- 2014-~ Graduate Student at [SALT Lab](http://salt.ece.ubc.ca/) of [ECE](http://ece.ubc.ca/), [UBC](http://www.ubc.ca/)
