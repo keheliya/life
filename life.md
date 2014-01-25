@@ -12,6 +12,7 @@
 - 2007-2011 University of Moratuwa (B.Sc. Engineering (Hons), Computer Science and Engineering)
 - 05/05/2008-14/05/2008 Visited Singapore
 - 02/2010-08/2010 Software Engineering Intern at [WSO2 Inc.](http://wso2.com)
+- 2011 Google Summer of Code (with [Gephi](https://gephi.org/) Consortium)
 - 12/2011 Second Laptop (Lenovo Thinkpad T520)
 - 12/2011-~ Software Engineer at [WSO2 Inc.](http://wso2.com)
 - 24/02/2012-04/03/2012 Visited [Örebro, Sweden](http://galpotha.wordpress.com/2013/08/30/travel-diaries-orebro-sweden/)
