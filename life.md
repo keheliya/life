@@ -29,4 +29,5 @@
 - 2014-2015 MASc Student at [SALT Lab](http://salt.ece.ubc.ca/) of [ECE](http://ece.ubc.ca/), [UBC](http://www.ubc.ca/)
 - 19/10/2015-24/10/2015 Visited [Beijing, China](https://www.youtube.com/watch?v=RDrfE9I8_hs)
 - 23/10/2015 Won Best Full Paper Award at [ESEM '15](http://ece.ubc.ca/news/201510/don-t-call-us-we-ll-call-you-understanding-javascript-callbacks-wins-best-paper-award-ke)
+- 02/2016-08/2016 Software Development Engineer II at [Fortinet Inc.](https://www.fortinet.com/)
 - 09/2016-~ PhD Student at [Software REBELs](http://rebels.ece.mcgill.ca/) of [ECE](https://mcgill.ca/ece/), [McGill University](https://mcgill.ca/)
