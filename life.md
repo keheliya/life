@@ -4,7 +4,7 @@
 - 23/07/1987 Born
 - 1992 Kindergarten
 - 1993-1998 Primary Education - Sapugaskanda Primary School
-- 17/03/1996 [Sri Lanka won the Cricket World Cup](http://www.youtube.com/watch?v=zgkZMxxRpxQ)
+- 17/03/1996 [Sri Lanka won the Cricket World Cup](http://www.espncricinfo.com/ci/engine/current/match/65192.html)
 - ~1998 Got the first computer (Intel Celeron, 266MHz, 32MB RAM, Windows 95)
 - 1998-2006 Secondary Education - [Royal College](http://en.wikipedia.org/wiki/Royal_College_Colombo)
 - 2003 Second PC
@@ -31,3 +31,4 @@
 - 23/10/2015 Won Best Full Paper Award at [ESEM '15](http://ece.ubc.ca/news/201510/don-t-call-us-we-ll-call-you-understanding-javascript-callbacks-wins-best-paper-award-ke)
 - 02/2016-08/2016 Software Development Engineer II at [Fortinet Inc.](https://www.fortinet.com/)
 - 09/2016-~ PhD Student at [Software REBELs](http://rebels.ece.mcgill.ca/) of [ECE](https://mcgill.ca/ece/), [McGill University](https://mcgill.ca/)
+- 01/03/2017-11/07/2017 Visited [Tokyo, Japan](https://en.wikipedia.org/wiki/Tokyo)
