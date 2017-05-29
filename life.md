@@ -32,3 +32,5 @@
 - 02/2016-08/2016 Software Development Engineer II at [Fortinet Inc.](https://www.fortinet.com/)
 - 09/2016-~ PhD Student at [Software REBELs](http://rebels.ece.mcgill.ca/) of [ECE](https://mcgill.ca/ece/), [McGill University](https://mcgill.ca/)
 - 01/03/2017-11/03/2017 Visited [Tokyo, Japan](https://galpotha.wordpress.com/2017/03/26/travel-diaries-tokyo-japan/)
+- 18/05/2017-23/05/2017 Visited [Buenos Aires, Argentina](https://galpotha.wordpress.com/2017/05/25/travel-diaries-buenos-aires-argentina/)
+
